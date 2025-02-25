@@ -130,15 +130,27 @@ a{
         margin-top: 2rem;
     }
     .page .head-vege{
-        margin-bottom: 2rem;
+        margin-bottom: 3rem;
     }
     footer .icons a i{
        margin-right: 5px !important;
         
     }
+    .main2 .baner{
+        width: 134px !important;
+        left: 9px !important;
+    }.box-card{
+        width: 89% !important;
+    }
+    .btn {
+        width: fit-content !important;
+    }
 }
+/* .owl-item{
+    margin: 0px auto !important;
+} */
 
- .ele-cart .card{
+.ele-cart .card{
     border-color: var(--second-color);
     transition: .3s;
 }
@@ -213,6 +225,12 @@ a{
     margin: 9px;
     cursor: pointer;
     transition: .5s;
+}
+.main2 .baner{
+    width: 140px;
+    height: 140px;
+    top: 0; 
+    left: 0
 }
 .mahmoud-sw .p {
     font-size: 1.7rem;
